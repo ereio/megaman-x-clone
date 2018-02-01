@@ -9,6 +9,8 @@ Space - Shoot
 Space(Held for 1.5seconds) - Charged Shot
 WAD && Up,Left, and Right arrows - movement
 
+DISCLAIMER: I DO NOT OWN, NOR DID I CREATE, THE SPRITES USED IN THIS GAME
+
 CREDITS:
 * ORIGINAL SPRITES WERE DEVELOPED BY CAPCOM and are not my own.
 
