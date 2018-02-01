@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70b5d29582ed8214fa493913ec115e5f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mm_damage: {fileID: 8300000, guid: 2d04a7aec96ab7e40bd72d7d4e7e2177, type: 3}
+  - mm_jump: {fileID: 8300000, guid: e475b58653fc2f049b1f8d06776ba8a2, type: 3}
+  - enemy_damage: {fileID: 8300000, guid: 338f3a464a0496640ab959921b04171e, type: 3}
+  - mm_burst: {fileID: 8300000, guid: 46a96efe02ce0b3458ac427f6e8fb641, type: 3}
+  - mm_charged_burst: {fileID: 8300000, guid: 0fc962259f86a9347954338decbd3e0a, type: 3}
+  - mm_spawn: {fileID: 8300000, guid: 03981a5a99c695847acec7c1c3baae10, type: 3}
+  - mm_death: {fileID: 8300000, guid: 98e7ba678c0e7fd4fa0739281699960c, type: 3}
+  - mm_charging: {fileID: 8300000, guid: 6aa6a8cd0cfc31e43bf6a1921b937f63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

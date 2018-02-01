@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fc430fc545f5db647ab1d48651d631c8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MegaMan: {fileID: 100000, guid: 8431fd42d41228b42b22edd711e7b95b, type: 2}
+  - BeeEnemy: {fileID: 100000, guid: 73459c547028b3b459a4a6008eb244d2, type: 2}
+  - WalkingBall: {fileID: 100002, guid: 5f3c1cb6bcde6a74e8c2182c775c7980, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

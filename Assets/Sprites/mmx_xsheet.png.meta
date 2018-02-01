@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: b504e6032acdf8341bf83abe34ce188d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx_entrance_0
+    21300002: mmx_entrance_1
+    21300004: mmx_entrance_2
+    21300006: mmx_entrance_3
+    21300008: mmx_entrance_4
+    21300010: mmx_entrance_5
+    21300012: mmx_entrance_6
+    21300014: mmx_idle_0
+    21300016: mmx_idle_1
+    21300018: mmx_idle_2
+    21300020: mmx_fire_0
+    21300022: mmx_fire_1
+    21300024: mmx_jumping_0
+    21300026: mmx_jumping_1
+    21300028: mmx_jumping_2
+    21300030: mmx_jumping_3
+    21300032: mmx_jumping_4
+    21300034: mmx_jumping_5
+    21300036: mmx_jumping_6
+    21300038: mmx_running_0
+    21300040: mmx_running_1
+    21300042: mmx_running_2
+    21300044: mmx_running_3
+    21300046: mmx_running_4
+    21300048: mmx_running_5
+    21300050: mmx_running_6
+    21300052: mmx_running_7
+    21300054: mmx_running_8
+    21300056: mmx_running_9
+    21300058: mmx_running_10
+    21300060: mmx_jumpingfire_0
+    21300062: mmx_jumpingfire_1
+    21300064: mmx_jumpingfire_2
+    21300066: mmx_jumpingfire_3
+    21300068: mmx_jumpingfire_4
+    21300070: mmx_jumpingfire_5
+    21300072: mmx_jumpingfire_7
+    21300074: mmx_dash_0
+    21300076: mmx_dash_1
+    21300078: mmx_dashfire_0
+    21300080: mmx_dashfire_1
+    21300082: mmx_runningfire_0
+    21300084: mmx_runningfire_1
+    21300086: mmx_runningfire_2
+    21300088: mmx_runningfire_3
+    21300090: mmx_runningfire_4
+    21300092: mmx_runningfire_5
+    21300094: mmx_runningfire_6
+    21300096: mmx_runningfire_7
+    21300098: mmx_runningfire_8
+    21300100: mmx_runningfire_9
+    21300102: mmx_runningfire_10
+    21300104: mmx_death_0
+    21300106: mmx_death_1
+    21300108: mmx_damage_0
+    21300110: mmx_damage_1
+    21300112: mmx_damage_2
+    21300114: mmx_damage_3
+    21300116: mmx_damage_4
+    21300118: mmx_damage_5
+    21300120: mmx_damage_6
+    21300122: mmx_damage_7
+    21300124: mmx_damage_8
+    21300126: mmx_damage_9
+    21300128: mmx_damage_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx_entrance_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 879
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 879
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 879
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 879
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_entrance_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 879
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_idle_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_idle_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_idle_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_fire_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 830
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_fire_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 830
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 830
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 830
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 830
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 830
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 830
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 830
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumping_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 830
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 789
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 789
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 789
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 789
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 789
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 789
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_running_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 789
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 741
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 741
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 741
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 741
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 741
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 741
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_jumpingfire_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 741
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_dash_0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 741
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_dash_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 741
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_dashfire_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 741
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_dashfire_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 741
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 704
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 703
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 703
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 703
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 703
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 703
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 703
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_runningfire_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 703
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_death_0
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 193
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_death_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 184
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 254
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 250
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 254
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 251
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 254
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 254
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mmx_damage_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
