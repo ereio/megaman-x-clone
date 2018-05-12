@@ -1,7 +1,7 @@
 ﻿/** Author: Taylor Ereio
  * File: MegaManController.cs
  * Date: 4/9/2015
- * Description: The ban of my existance, the script won't update in unity, it's a known bug
+ * Description: The bane of my existance, the script won't update in unity, it's a known bug
  * When attempting to edit anything in it not only does unity ignore it, but it's also decides
  * to update randomly whenever it feels like it. Thus, erratic behavior occurs whenever I start
  * the game with the script on a GO. It should just work like the bee controller only it's not
